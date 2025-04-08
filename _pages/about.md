@@ -25,5 +25,3 @@ Publications
 5.A Snippets Relation and Hard-Snippets Mask Network for Weakly-Supervised Temporal Action Localization. IEEE TCSVT 2024
 6.Fine-Grained Modality Relation-Aware Network for Video Moment Retrieval. IEEE TCSVT 2025
 7.Multiple Information Prompt Learning for Cloth-Changing Person Re-Identification（通讯作者） IEEE TIP2025
-
-
