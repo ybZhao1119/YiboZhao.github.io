@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Yibo Zhao**  **Tianjin University of Technology**  <br>
+**Yibo Zhao**    **Tianjin University of Technology**  <br>
 **Email**：**zybtjut@163.com** <br>
 
 ## 🎓 Education & Experience
