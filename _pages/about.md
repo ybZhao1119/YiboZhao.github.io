@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  
+
+**Email**：**zybtjut@163.com** <br>  
 **Tianjin University of Technology**  <br>
-**Email**：**zybtjut@163.com** <br>
 
 ## 🎓 Education & Experience
 
