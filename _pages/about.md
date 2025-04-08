@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:black">
   
 **Tianjin University of Technology**  <br>
 **Email**：**zybtjut@163.com** <br>
@@ -37,4 +36,3 @@ redirect_from:
 
 7. **Multiple Information Prompt Learning for Cloth-Changing Person Re-Identification**  
    Shengxun Wei, Zan Gao, Chunjie Ma, Yibo Zhao*, Weili Guan, and Shengyong Chen. IEEE Transactions on Image Processing 2025.
-</span>
