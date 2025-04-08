@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Yibo Zhao  赵一博  <br>
-Tianjin University of Technology   天津理工大学 计算机科学与工程学院 <br>
+Yibo Zhao  <br>
+Tianjin University of Technology  <br>
 Email：zybtjut@163.com <br>
 
 ## 🎓 Education & Experience
