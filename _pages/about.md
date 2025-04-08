@@ -12,8 +12,8 @@ redirect_from:
 
 ## 🎓 Education & Experience
 
-- **2014 – 2018**: Bachelor's Degree, Tianjin University of Technology  
-- **2018 – 2024**: Doctoral Degree, Tianjin University of Technology
+- **2014 – 2018**: Tianjin University of Technology, Bachelor  
+- **2018 – 2024**: Tianjin University of Technology, Doctor
 
 ## 📚 Publications
 1. **A Novel Multiple-View Adversarial Learning Network for Unsupervised Domain Adaptation Action Recognition**  
