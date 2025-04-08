@@ -44,6 +44,14 @@
 body {
   color: #000000 !important;
 }
-dark-mode-toggle {
+
+/* 隐藏 dark mode 切换按钮 */
+#dark-mode-toggle,
+button#dark-mode-toggle,
+.navbar .dark-mode-toggle,
+.navbar .mode-toggle,
+.navbar button[aria-label="Toggle dark mode"],
+button[title="Toggle dark mode"],
+button[aria-label="Toggle theme"] {
   display: none !important;
 }
