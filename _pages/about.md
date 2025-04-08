@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-**Yibo Zhao**    **Tianjin University of Technology**  <br>
+<span style="color:black">
+  
+**Tianjin University of Technology**  <br>
 **Email**：**zybtjut@163.com** <br>
 
 ## 🎓 Education & Experience
@@ -35,4 +36,5 @@ redirect_from:
    Yibo Zhao, Zan Gao, Chunjie Ma, Weili Guan, Riwei Wang, and Shengyong Chen. IEEE Transactions on Circuits and Systems for Video Technology 2025.
 
 7. **Multiple Information Prompt Learning for Cloth-Changing Person Re-Identification**  
-   Shengxun Wei, Zan Gao, Chunjie Ma, Yibo Zhao*, Weili Guan, and Shengyong Chen. IEEE Transactions on Image Processing 2025. 
+   Shengxun Wei, Zan Gao, Chunjie Ma, Yibo Zhao*, Weili Guan, and Shengyong Chen. IEEE Transactions on Image Processing 2025.
+</span>
