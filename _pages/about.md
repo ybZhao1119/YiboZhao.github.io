@@ -12,13 +12,11 @@ redirect_from:
 **Email**：**zybtjut@163.com** <br>
 
 ## 🎓 Education & Experience
-======
 
 - **2014 – 2018**: Bachelor's Degree, Tianjin University of Technology  
 - **2018 – 2024**: Doctoral Degree, Tianjin University of Technology
 
 ## 📚 Publications
-======
 1. **A Novel Multiple-View Adversarial Learning Network for Unsupervised Domain Adaptation Action Recognition**  
    Zan Gao, Yibo Zhao*, Hua Zhang, Da Chen, An-An Liu, and Shengyong Chen. IEEE Transactions on Cybernetics 2021.
 
